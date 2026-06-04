@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Michael Zhu</h1>
 
-<!--
-**mwzhu/mwzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building AI agents and consumer apps.
+</p>
+<p align="center">
+  Previously SWE at Atlassian Rovo AI.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Agent Projects
+
+- [Otto](https://github.com/mwzhu/otto/tree/main)
+
+### Consumer Apps I've Built
+
+- [Ascend](https://www.ascendapp.io)
+- [DebatePro](https://www.practicedebate.ai)
+
+### Skills
+
+- Multi-agent orchestration and evaluation
+- Distributed systems
+- Cloud infrastructure
+- Workflow automation
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwzhu/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/reps0nreps)
