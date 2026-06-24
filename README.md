@@ -10,13 +10,13 @@
 ---
 
 ### AI Agent Projects
-
-- [Otto](https://github.com/mwzhu/otto/tree/main)
+- [Entrepreneur-Bench](https://github.com/mwzhu/entrepreneur-bench): Evaluation benchmark on AI's ability to run an online business
+- [Otto](https://github.com/mwzhu/otto/tree/main): AI consultant agent that maps business workflows and creates an automation plan
 
 ### Consumer Apps I've Built
 
-- [Ascend](https://www.ascendapp.io)
-- [DebatePro](https://www.practicedebate.ai)
+- [Ascend](https://www.ascendapp.io): Peptide tracking mobile app
+- [DebatePro](https://www.practicedebate.ai): Real-time voice debate training platform
 
 ### Skills
 
