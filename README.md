@@ -1,6 +1,9 @@
 <h1 align="center">Michael Zhu</h1>
 
 <p align="center">
+  AI product engineer at Brain Co.
+</p>
+<p align="center">
   Building AI agents and consumer apps.
 </p>
 <p align="center">
